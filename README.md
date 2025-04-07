@@ -12,7 +12,7 @@ A modern Flutter application that delivers  news updates in Business, Science, a
 
 ---
 
-Prerequisites:
+## Prerequisites:
 Flutter SDK (version 3.29.2) - Install from Flutter docs (https://flutter.dev/docs/get-started/install)
 
 Android Studio or VS Code
@@ -21,12 +21,14 @@ Firebase Project Enable Email/Password Authentication in Firebase Console
 
 ---
 
+## Setup Instructions
+
 1- **Clone the repository**
 
-   First, clone the repository to your local machine:
-   bash
-   git clone https://github.com/khalidadel365/news_app.git
-   cd news_app
+ First, clone the repository to your local machine:
+ bash
+ git clone https://github.com/khalidadel365/news_app.git
+ cd news_app
 
 2-Install dependencies:
 flutter pub get
