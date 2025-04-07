@@ -1,17 +1,12 @@
 # news_app
 
-A new Flutter project.
+A modern Flutter application that delivers  news updates in Business, Science, and Sports categories. Users can sign up and log in securely through Firebase Authentication, and search for news articles powered by a 
+ News API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Email-based Authentication via Firebase
+- News categorized by Business, Sports, and Science
+- Search Functionality to find news articles by keyword
+- Live data fetched from a News API
+- Smooth, responsive UI built with Flutter
 # news_app
